@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15x;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+nav,
+#hobbies,
+#websites,
+#contact {
+    margin-left: 2%;
+}
+
+#about {
+    text-align: center;
+}
